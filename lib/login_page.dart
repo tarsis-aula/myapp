@@ -27,7 +27,7 @@ class _LoginPageState extends State<LoginPage> {
                 children: [
                   const SizedBox(height: 16),
                   Text(
-                    'Login no Hurb',
+                    'Acessar o Hurb',
                     textAlign: TextAlign.center,
                     style: GoogleFonts.montserrat(
                       color: const Color(0xFF10397B),
