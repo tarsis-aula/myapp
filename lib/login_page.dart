@@ -30,7 +30,7 @@ class _LoginPageState extends State<LoginPage> {
                     'Acessar o Hurb',
                     textAlign: TextAlign.center,
                     style: GoogleFonts.montserrat(
-                      color: const Color(0xFF10397B),
+                      color: Colors.amber,
                       fontWeight: FontWeight.w600,
                       fontSize: 24,
                     ),
